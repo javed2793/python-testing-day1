@@ -1,4 +1,3 @@
-print("Hello World")
 numbers = [10, 501, 22, 37, 100, 999, 87, 351]
 
 for num in numbers:
@@ -7,4 +6,3 @@ for num in numbers:
     else:
         print(num, "is Odd")
 
-input("Press Enter to exit...")
